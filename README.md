@@ -77,13 +77,13 @@ XGBoost
 
 Cross-validation (5-fold) was used for robust evaluation.
 
-📈 Model Performance
+
 Model	Test Accuracy	CV Accuracy
-Logistic Regression	~97–100%	~97%+
-SVM	~98–100%	~98%+
-KNN	~95–98%	~96%+
-Random Forest	~99%	~98%+
-XGBoost	🔥 ~99–100%	~99%
+Logistic Regression	
+SVM	
+KNN	
+Random Forest	
+XGBoost	🔥 
 
 The dataset has well-separated classes, making it suitable for benchmarking new classifiers.
 
@@ -106,13 +106,7 @@ Ensemble models perform exceptionally well on structured tabular data
 
 Proper label encoding is required for certain models like XGBoost
 
-📂 Project Structure
-Wine-Classification/
-│
-├── Wine dataset.csv
-├── wine_classification.ipynb
-├── requirements.txt
-└── README.md
+
 
 🛠 Technologies Used
 
